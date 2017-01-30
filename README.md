@@ -17,6 +17,15 @@ Basic Commands
 
 Linux
 
+
+Ls / directory listing
+ git show [commit] / Outputs metadata and content changes of the specified commit
+Cd / change directory
+Head file / output first ten files
+Man command / manual command
+ git log / Lists version history for the current branch
+
+
 Windows
 
      rmdir <repository name> /s /q: to remove working copy off local machine
@@ -33,8 +42,6 @@ Git remote / show remote
 git pull origin <branchname> / pull specific branch
 Git branch -a / show all branches
 Git clone + (url) / clone to local host
-
-
 
 
 
