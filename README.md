@@ -18,12 +18,12 @@ Basic Commands
 Linux
 
 
-Ls / directory listing
- git show [commit] / Outputs metadata and content changes of the specified commit
-Cd / change directory
-Head file / output first ten files
-Man command / manual command
- git log / Lists version history for the current branch
+ *Ls / directory listing
+ *git show [commit] / Outputs metadata and content changes of the specified commit
+*Cd / change directory
+*Head file / output first ten files
+*Man command / manual command
+ *git log / Lists version history for the current branch
 
 
 Windows
